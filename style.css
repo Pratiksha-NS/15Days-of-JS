@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    margin: 15px;
+    padding: 5px;
+
+}
+
+.card-img-top{
+    height: 220px;
+    object-fit: fill;
+}
